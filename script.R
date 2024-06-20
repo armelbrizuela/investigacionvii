@@ -1,1 +1,1 @@
-datos <- foreign::read.spss(readLines('datos')[2], to.data.frame = T)
+datos <- foreign::read.spss(readLines('datos')[1], to.data.frame = T)
