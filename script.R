@@ -1,5 +1,1 @@
-x <- c(1, 2, 3, 4)
-mean(x)
-sd(x)
-range(x)
-# Comentario
+datos <- foreign::read.spss(readLines('datos')[2], to.data.frame = T)
