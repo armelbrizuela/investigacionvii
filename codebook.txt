@@ -1,0 +1,50 @@
+item_1	I am the life of the party.
+item_2	I don't talk a lot.
+item_3	I feel comfortable around people.
+item_4	I keep in the background.
+item_5	I start conversations.
+item_6	I have little to say.
+item_7	I talk to a lot of different people at parties.
+item_8	I don't like to draw attention to myself.
+item_9	I don't mind being the center of attention.
+item_10	I am quiet around strangers.
+item_11	I get stressed out easily.
+item_12	I am relaxed most of the time.
+item_13	I worry about things.
+item_14	I seldom feel blue.
+item_15	I am easily disturbed.
+item_16	I get upset easily.
+item_17	I change my mood a lot.
+item_18	I have frequent mood swings.
+item_19	I get irritated easily.
+item_20	I often feel blue.
+item_21	I feel little concern for others.
+item_22	I am interested in people.
+item_23	I insult people.
+item_24	I sympathize with others' feelings.
+item_25	I am not interested in other people's problems.
+item_26	I have a soft heart.
+item_27	I am not really interested in others.
+item_28	I take time out for others.
+item_29	I feel others' emotions.
+item_30	I make people feel at ease.
+item_31	I am always prepared.
+item_32	I leave my belongings around.
+item_33	I pay attention to details.
+item_34	I make a mess of things.
+item_35	I get chores done right away.
+item_36	I often forget to put things back in their proper place.
+item_37	I like order.
+item_38	I shirk my duties.
+item_39	I follow a schedule.
+item_40	I am exacting in my work.
+item_41	I have a rich vocabulary.
+item_42	I have difficulty understanding abstract ideas.
+item_43	I have a vivid imagination.
+item_44	I am not interested in abstract ideas.
+item_45	I have excellent ideas.
+item_46	I do not have a good imagination.
+item_47	I am quick to understand things.
+item_48	I use difficult words.
+item_49	I spend time reflecting on things.
+item_50	I am full of ideas.
