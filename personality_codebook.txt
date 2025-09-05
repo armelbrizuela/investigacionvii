@@ -47,5 +47,5 @@ item_46	I do not have a good imagination.
 item_47	I am quick to understand things.
 item_48	I use difficult words.
 item_49	I spend time reflecting on things.
-
 item_50	I am full of ideas.
+
